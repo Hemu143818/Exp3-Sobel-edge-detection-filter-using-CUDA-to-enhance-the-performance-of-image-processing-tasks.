@@ -6,9 +6,9 @@ reg:- 212224100033
 ```
 
 <h3>AIM:</h3>
-<h3>ENTER YOUR NAME</h3>
-<h3>ENTER YOUR REGISTER NO</h3>
-<h3>EX. NO</h3>
+<h3>ENTER YOUR NAME : k hemanth yadav </h3>
+<h3>ENTER YOUR REGISTER NO ; 212224100033</h3>
+<h3>EX. NO ex:3 </h3>
 <h3>DATE</h3>
 <h1> <align=center> Sobel edge detection filter using CUDA </h3>
   Implement Sobel edge detection filtern using GPU.</h3>
